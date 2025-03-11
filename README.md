@@ -1,2 +1,2 @@
-# latex
+# LaTeX
 LaTeX Briefs
